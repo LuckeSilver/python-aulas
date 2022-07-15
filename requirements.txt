@@ -1,0 +1,8 @@
+chalk-diagrams @ git+https://github.com/danoneata/chalk/@2327f2dc7f17508f2085683188a86f31ea4a43a3
+colour==0.1.5
+loguru==0.6.0
+Pillow==9.2.0
+planar==0.4
+svgwrite==1.4.3
+toolz==0.12.0
+typing_extensions==4.3.0
